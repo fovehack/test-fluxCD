@@ -4,3 +4,4 @@ resources:
   - my-app-deployment.yaml
   - my-app-service.yaml
   - my-app-ingress.yaml
+namespace: default
